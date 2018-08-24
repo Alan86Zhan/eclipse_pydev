@@ -2,12 +2,12 @@
 # -*- coding: utf-8 -*-
 """
 Function:
-【记录】使用Python的IDE：Eclipse+PyDev
-https://www.crifan.com/try_with_python_ide_eclipse_pydev
+【记录】#查询用户余额代码案例
+https://github.com/Alan86Zhan/eclipse_pydev.git
  
-Author:     Crifan Li
-Version:    2012-12-29
-Contact:    admin at crifan dot com
+Author:     Alan Zhan
+Version:    2018-8-24
+Contact:    
 """
  
 import platform;
